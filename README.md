@@ -1,4 +1,4 @@
-# [Sobolev Fourier Neural Operator](https://jongkwonoh.github.io/sofono-page/) (NeuroComputing)
+# [NeuroComputing'25] <img src="plot_folder/logo.png" alt="Logo" width="28"/> [Sobolev Fourier Neural Operator](https://jongkwonoh.github.io/sofono-page/)
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
 
