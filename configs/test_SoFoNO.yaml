@@ -1,0 +1,22 @@
+test_dataset:
+  dataset:
+    name: image-folder
+    args:
+      root_path: ./data/DIV2K_valid_HR
+  wrapper:
+      name: sr-implicit-downsampled-fast
+      args:
+        scale_min: 4
+        scale_max: 4
+        ranges : [-1, 1]
+        get_noise : False
+        get_blur : False
+  batch_size: 1
+eval_type: div2k-4
+eval_bsize: 500
+
+model_path: ./SoFoNO.pth
+
+data_norm:
+  inp: {sub: [0.5], div: [0.5]}
+  gt: {sub: [0.5], div: [0.5]}

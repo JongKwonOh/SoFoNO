@@ -1,0 +1,14 @@
+__pycache__/
+*.ipynb**
+
+data/
+**/data/
+backup*/
+save*/
+
+plot*/
+**/plot*/
+
+*.txt
+
+demo_**
