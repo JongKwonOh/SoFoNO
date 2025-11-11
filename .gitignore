@@ -10,5 +10,6 @@ plot*/
 **/plot*/
 
 *.txt
+*.pth
 
 demo_**

@@ -1,8 +1,7 @@
-# [NeuroComputing'25] <img src="plot_folder/logo.png" alt="Logo" width="28"/> [Sobolev Fourier Neural Operator](https://jongkwonoh.github.io/sofono-page/)
+# [NeuroComputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/)
+# Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
-
-<!-- [**Super-Resolution Sobolev Fourier Neural Operator**](link) (Journal or Conference 2025) -->
 
 ## Software Environment
 
@@ -56,11 +55,11 @@ model:
 ```
 
 ## Test
-<!--Download a DIV2K pre-trained model.
+Download a DIV2K pre-trained model.
 
 Model|Download
 :-:|:-:
-EDSR-baseline-SRNO|[Google Drive](https://drive.google.com/file/d/10eoYPpmR1mXgmWU9eptvfgYEpQehhhIz/view?usp=sharing) -->
+SoFoNO|[Google Drive](https://drive.google.com/drive/folders/1OUeO5mKuWb_TXkRzyjyUdIAxevp15-cK)
 
 `python test.py --config configs/test_SoFoNO.yaml --mcell True`
 You should input the test data and model information into the yaml file.
