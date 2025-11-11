@@ -1,5 +1,4 @@
-# [NeuroComputing'25] 
-# <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
+# [NeuroComputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
 
