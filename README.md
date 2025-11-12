@@ -14,7 +14,7 @@
 > <br> 🧾 Author Notes: 
 > <ul>
 > <li><sup>1</sup> These authors contributed equally (co-first authors).</li>
-> <li><sup>*</sup> Corresponding author (jihyong.oh@cau.ac.kr).</li>
+> <li><sup>*</sup> Corresponding author</li>
 > </ul>
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
