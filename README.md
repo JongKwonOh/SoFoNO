@@ -4,14 +4,18 @@
 
 # [Neurocomputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
 
-> 📝 **Authors:** Jong Kwon Oh<sup>1</sup>, Hwijae Son<sup>2</sup>, Hyung Ju Hwang<sup>1</sup>, and Jihyong Oh<sup>3*</sup>  
+> 📝 **Authors:** Jong Kwon Oh<sup>a, 1</sup>, Hwijae Son<sup>b, 1</sup>, Hyung Ju Hwang<sup>a</sup>, and Jihyong Oh<sup>c, *</sup>  
 > <br>🎓 Institution:
 > <ul>
-> <li><sup>1</sup> Pohang University of Science and Technology (POSTECH)</li>
-> <li><sup>2</sup> Konkuk University</li>
-> <li><sup>3</sup> Chung-Ang University</li>
+> <li><sup>a</sup> Pohang University of Science and Technology (POSTECH)</li>
+> <li><sup>b</sup> Konkuk University</li>
+> <li><sup>c</sup> Chung-Ang University</li>
 > </ul> 
-
+> <br> 🧾 Author Notes: 
+> <ul>
+> <li><sup>1</sup> These authors contributed equally (co-first authors).</li>
+> <li><sup>*</sup> Corresponding author (jihyong.oh@cau.ac.kr).</li>
+> </ul>
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
 
