@@ -1,4 +1,20 @@
-# [NeuroComputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
+<p align="center">
+  <a href="<!-- 🔗 Project page-->">
+    <img src="https://jongkwonoh.github.io/sofono-page/" alt="Project Page"/>
+  </a>
+  <a href="<!-- 🔗 Paper / Neurocomputing-->">
+    <img src="https://www.sciencedirect.com/science/article/pii/S0925231225026165" alt="Neurocomputing"/>
+  </a>
+</p>
+
+
+# [Neurocomputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
+
+> 📝 Authors: Jong Kwon Oh<sup>1</sup>, Hwijae Son<sup>2</sup>, Hyung Ju Hwang<sup>1</sup>, and Jihyong Oh<sup>3*</sup>
+> 🎓 Institution: </br>
+> <sup>1</sup> Pohang University of Science and Technology (POSTECH) </br>
+> <sup>2</sup> Konkuk University </br>
+> <sup>3</sup> Chung-Ang University
 
 This repository contains the official implementation for SoFoNO introduced in the following [paper](https://www.sciencedirect.com/science/article/pii/S0925231225026165):
 
@@ -95,3 +111,15 @@ If you find our work useful in your research, please consider citing:
 
 ## Acknowledgements
 This code is built on [LIIF](https://github.com/yinboc/liif), [LTE](https://github.com/jaewon-lee-b/lte) and [SRNO](https://github.com/2y7c3/Super-Resolution-Neural-Operator)
+
+## Bibtex citation
+
+```bibtex
+@article{oh2025sofono,
+  title={SoFoNO: Arbitrary-scale image super-resolution via Sobolev Fourier neural operator},
+  author={Oh, Jong Kwon and Son, Hwijae and Hwang, Hyung Ju and Oh, Jihyong},
+  journal={Neurocomputing},
+  pages={131944},
+  year={2025},
+  publisher={Elsevier}
+}
