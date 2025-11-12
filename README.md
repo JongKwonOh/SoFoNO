@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="<!-- 🔗 Project page-->">
-    <img src="https://jongkwonoh.github.io/sofono-page/" alt="Project Page"/>
-  </a>
-  <a href="<!-- 🔗 Paper / Neurocomputing-->">
-    <img src="https://www.sciencedirect.com/science/article/pii/S0925231225026165" alt="Neurocomputing"/>
-  </a>
-</p>
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=flat&logo=github&labelColor=black)](https://jongkwonoh.github.io/sofono-page/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arxiv&labelColor=darkred)](https://www.sciencedirect.com/science/article/pii/S0925231225026165)
 
 
 # [Neurocomputing'25] <img src="https://github.com/JongKwonOh/sofono-page/blob/main/src/assets/logo.png" alt="Logo" width="28"> [SoFoNO](https://jongkwonoh.github.io/sofono-page/) : Arbitrary-Scale Image Super-Resolution via Sobolev Fourier Neural Operator
