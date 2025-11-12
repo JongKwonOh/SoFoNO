@@ -29,7 +29,7 @@ This project was implemented and tested with the following software configuratio
 - **OpenCV**: 4.11.0.86
 
 ## Hardware
-- **GPU**: NVIDIA A100 80GB
+- **GPU**: Single NVIDIA A100 80GB
 
 ## Download Dataset
 To download and prepare the DIV2K dataset for training and validation, follow these steps:
@@ -120,3 +120,4 @@ This code is built on [LIIF](https://github.com/yinboc/liif), [LTE](https://gith
   year={2025},
   publisher={Elsevier}
 }
+
